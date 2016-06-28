@@ -1,5 +1,5 @@
 # Finance Planner
-
+[![Build Status](https://travis-ci.org/davemachado/Finance-Planner.svg?branch=master)](https://travis-ci.org/davemachado/Finance-Planner)
 ### Version
 1.0
 
